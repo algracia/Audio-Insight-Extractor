@@ -34,19 +34,6 @@ Thumbs.db
 # Jupyter Notebook checkpoints (in case)
 .ipynb_checkpoints/
 
-# Exported reports or consolidated files
-respuesta_consolidada.txt
-resumen_*.txt
-
-# Uploaded folders for intermediate processing
-uploads/
-
-#Temporal folders
-*.pyc
-__pycache__/
-nltk_data/
-
-
 #System document
 .DS_Store
 Thumbs.db
