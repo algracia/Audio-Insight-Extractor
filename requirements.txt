@@ -1,0 +1,9 @@
+nltk==3.9.1
+openai==1.74.0
+python-dotenv==1.1.0
+tiktoken==0.9.0
+openai-whisper==20230314
+
+# Notes:
+# - ffmpeg is required for Whisper to work (install via system package manager)
+# - torch should be installed manually depending on your hardware (GPU or CPU)

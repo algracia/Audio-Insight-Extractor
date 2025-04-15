@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.env.*
+.ConvertirAudioEnCodigo/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Transcription or audio folders (keep private or large)
+transcriptions/
+preprocessed/
+output/
+*.wav
+*.m4a
+*.flac
+*.aac
+
+# Logs
+*.log
+
+# Backup files
+*~
+
+# Jupyter Notebook checkpoints (in case)
+.ipynb_checkpoints/
+
+# Exported reports or consolidated files
+respuesta_consolidada.txt
+resumen_*.txt
+
+# Uploaded folders for intermediate processing
+uploads/
+
+#Temporal folders
+*.pyc
+__pycache__/
+nltk_data/
+transcriptions/
+preprocessed/
+consolidated_output/
+ConvertirAudioEnCodigo/
+respuesta_consolidada.txt
+raw audios/
+
+#System document
+.DS_Store
+Thumbs.db
