@@ -8,6 +8,7 @@ venv/
 .env
 .env.*
 .ConvertirAudioEnCodigo/
+ConvertirAudioEnCodigo/
 
 # System files
 .DS_Store
@@ -18,13 +19,11 @@ Thumbs.db
 .idea/
 
 # Transcription or audio folders (keep private or large)
-transcriptions/
-preprocessed/
-output/
 *.wav
 *.m4a
 *.flac
 *.aac
+*.mp3
 
 # Logs
 *.log
@@ -46,11 +45,6 @@ uploads/
 *.pyc
 __pycache__/
 nltk_data/
-transcriptions/
-preprocessed/
-consolidated_output/
-ConvertirAudioEnCodigo/
-respuesta_consolidada.txt
 
 
 #System document
